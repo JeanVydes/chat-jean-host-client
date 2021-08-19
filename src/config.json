@@ -1,0 +1,7 @@
+{
+    "production": true,
+    "dev_url": "//localhost:8080",
+    "prod_url": "//apichatjeanhost.jeancarlosvr.repl.co",
+    "dev_client": "http://localhost:3000",
+    "prod_client": "https://chat.jean.host"
+}
